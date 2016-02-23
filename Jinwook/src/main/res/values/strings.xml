@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">JinwookAssign4</string>
+    <string name="myName">Jinwook Jung</string>
+    <string name="studentNumber">300801360</string>
+
+    <string-array name="course">
+        <item>Programming1</item>
+        <item>Java Programming</item>
+        <item>Progamming3</item>
+        <item>Wireless programming</item>
+        <item>Advanced database</item>
+    </string-array>
+</resources>

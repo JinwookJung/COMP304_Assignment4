@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">JinwookAssign4</string>
+    <string name="myName">Jinwook Jung</string>
+    <string name="studentNumber">300801360</string>
+
+    <string-array name="course">
+        <item>La programmation</item>
+        <item>programmation Java</item>
+        <item>La programmation</item>
+        <item>programmation sans fil</item>
+        <item>base de données avancée</item>
+    </string-array>
+</resources>
